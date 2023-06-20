@@ -1,0 +1,5 @@
+/* /index.html 200
+https://gleaming-ganache-1fbddf.netlify.app https://www.uwureg.com 301 true
+https://gleaming-ganache-1fbddf.netlify.app/* https://www.uwureg.com/:splat 301 true
+https://uwureg.com https://www.uwureg.com 301 true
+https://uwureg.com/* https://www.uwureg.com/:splat 301 true
