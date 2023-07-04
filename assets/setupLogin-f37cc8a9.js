@@ -1,1 +1,0 @@
-import{b1 as i,M as n,b2 as r}from"./index-f1ea5b8b.js";import{S as s}from"./userData-d733b0cf.js";const A=(a,t,o)=>{const e=n();(t.Avatar===void 0||t.Avatar==="")&&(t.Avatar=e.GetProfileImageURL(t.UserUUID)),i(a),s(t),r.getInstance().emit("login",t),o.push("/dashboard").then(()=>{}).catch(()=>{})};export{A as S};
