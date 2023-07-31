@@ -1,0 +1,1 @@
+import{G as n}from"./group-d2a77946.js";import{C as t}from"./canEditOrganisation-b4049ca7.js";const d=(o=void 0,i=void 0)=>o===void 0?!1:i===void 0?t(o,n.GROUP_TYPE_CONVENTION).EditConvention:t(o,n.GROUP_TYPE_CONVENTION,i.ConventionUUID,i).EditConvention;export{d as C};
