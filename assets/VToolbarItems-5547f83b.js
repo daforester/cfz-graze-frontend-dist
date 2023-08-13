@@ -1,5 +1,1 @@
-<<<<<<<< HEAD:assets/VToolbarItems-5547f83b.js
 import{b as s,F as n,a as m}from"./VContainer-87d98084.js";import{p as i,n as l,G as c,t as o,v as p}from"./index-f94693a1.js";const V=i({...s(),...n({variant:"text"})},"VToolbarItems"),d=l()({name:"VToolbarItems",props:V(),setup(a,r){let{slots:e}=r;return c({VBtn:{color:o(a,"color"),height:"inherit",variant:o(a,"variant")}}),m(()=>{var t;return p("div",{class:["v-toolbar-items",a.class],style:a.style},[(t=e.default)==null?void 0:t.call(e)])}),{}}});export{d as V};
-========
-import{b as s,F as n,a as m}from"./VContainer-76f61da9.js";import{p as i,n as l,G as c,t as o,v as p}from"./index-358e21fe.js";const V=i({...s(),...n({variant:"text"})},"VToolbarItems"),d=l()({name:"VToolbarItems",props:V(),setup(a,r){let{slots:e}=r;return c({VBtn:{color:o(a,"color"),height:"inherit",variant:o(a,"variant")}}),m(()=>{var t;return p("div",{class:["v-toolbar-items",a.class],style:a.style},[(t=e.default)==null?void 0:t.call(e)])}),{}}});export{d as V};
->>>>>>>> 06d630c5c72ef68f7325c4ebee577742bf9a278d:assets/VToolbarItems-78b543e6.js
