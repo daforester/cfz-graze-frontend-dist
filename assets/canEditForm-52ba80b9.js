@@ -1,0 +1,1 @@
+import{a}from"./submission-56c4c4f1.js";const o=(n,e,u)=>{const S=n.find(t=>t.Type===u);if(!S)return!1;if(S.State.Edit){const t=e.find(r=>r.FormUUID===S.FormUUID);return t?t.Status==a.SUBMISSION_STATUS_NULL||t.Status==a.SUBMISSION_STATUS_OPEN||t.Status==a.SUBMISSION_STATUS_INVALID:!0}return S.State.New?!e.find(r=>r.FormUUID===S.FormUUID):!1};export{o as c};
