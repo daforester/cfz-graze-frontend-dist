@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:assets/VToolbarItems-4111d9c2.js
-import{m as s,y as n,u as m}from"./VContainer-51ce664a.js";import{p as i,n as l,G as c,t as o,v as p}from"./index-1bfe9050.js";const V=i({...s(),...n({variant:"text"})},"VToolbarItems"),b=l()({name:"VToolbarItems",props:V(),setup(a,r){let{slots:e}=r;return c({VBtn:{color:o(a,"color"),height:"inherit",variant:o(a,"variant")}}),m(()=>{var t;return p("div",{class:["v-toolbar-items",a.class],style:a.style},[(t=e.default)==null?void 0:t.call(e)])}),{}}});export{b as V};
-========
-import{m as s,y as n,u as m}from"./VContainer-69edc0fd.js";import{p as i,n as l,G as c,t as o,v as p}from"./index-4a25dcfa.js";const V=i({...s(),...n({variant:"text"})},"VToolbarItems"),b=l()({name:"VToolbarItems",props:V(),setup(a,r){let{slots:e}=r;return c({VBtn:{color:o(a,"color"),height:"inherit",variant:o(a,"variant")}}),m(()=>{var t;return p("div",{class:["v-toolbar-items",a.class],style:a.style},[(t=e.default)==null?void 0:t.call(e)])}),{}}});export{b as V};
->>>>>>>> e21232eb546c63bf996bf80c0693fe58639ce4af:assets/VToolbarItems-16eb0dab.js
