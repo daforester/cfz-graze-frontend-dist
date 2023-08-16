@@ -1,1 +1,0 @@
-import{F as o}from"./form-e2a93b7c.js";const E=T=>{const e=r=>[o.FORM_TYPE_REGISTRATION,o.FORM_TYPE_ACCOMMODATION,o.FORM_TYPE_DEALER,o.FORM_TYPE_BADGE,o.FORM_TYPE_UNSPECIFIED].findIndex(s=>s===r);T.sort((r,F)=>r.Form&&F.Form?e(r.Form.Type)>e(F.Form.Type)?1:e(r.Form.Type)==e(F.Form.Type)?0:-1:0)};export{E as s};
