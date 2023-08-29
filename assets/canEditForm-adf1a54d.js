@@ -1,1 +1,0 @@
-import{c as e}from"./submission-fa749080.js";const o=(u,n,U)=>{const S=u.find(t=>t.Type===U);if(!S)return!1;if(S.State.Edit){const t=n.find(r=>r.FormUUID===S.FormUUID);return t?t.Status==e.SUBMISSION_STATUS_NULL||t.Status==e.SUBMISSION_STATUS_OPEN||t.Status==e.SUBMISSION_STATUS_INVALID:!0}return S.State.New?!n.find(r=>r.FormUUID===S.FormUUID):!1};export{o as c};
