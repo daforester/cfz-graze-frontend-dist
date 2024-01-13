@@ -1,1 +1,0 @@
-import{ay as s,E as a}from"./index-5fbc4a04.js";import{S as r}from"./userData-a2e78973.js";const f=(o,t,i,n=!1)=>{s(o),r(t),a.getInstance().emit("login",t);let e="/";n&&(e="/profile"),i.push(e).then(()=>{}).catch(()=>{})};export{f as S};
