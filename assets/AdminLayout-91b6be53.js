@@ -1,0 +1,1 @@
+import{i as t,U as r,l as n,n as s,q as a}from"./index-b5abcb9c.js";import{p}from"./performLoginCheck-f6235233.js";import"./userData-1d1266ac.js";const l=t({__name:"AdminLayout",setup(c){const o=r();return p(o),(m,i)=>{const e=n("RouterView");return s(),a(e)}}});export{l as default};
