@@ -1,1 +1,0 @@
-import{b1 as o,ab as s}from"./index-QUOOrldl.js";import"./VContainer-Ly74NKFR.js";import{c as t}from"./createSimpleFunctional-VWh6wQQj.js";const c=o.getInstance(),i=()=>c,u=t("v-spacer","div","VSpacer");function d(){const e=s("useScopeId").vnode.scopeId;return{scopeId:e?{[e]:""}:void 0}}export{u as V,i as a,d as u};
