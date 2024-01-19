@@ -1,0 +1,1 @@
+import{T as s}from"./index-BUa9saXG.js";import{G as n,a as o}from"./userData-M0r7f2_B.js";const m=e=>{const t=n();s.getInstance().getTokenByService("GrazeAPI")?t||o().then(()=>{}).catch(()=>{e.push("/").then(()=>{})}):e.push("/")};export{m as p};
