@@ -1,0 +1,1 @@
+import{i as o,U as e,B as t,n as r}from"./index-ahiTgWla.js";import{L as n}from"./logout-tLonhovp.js";import"./userData-AcuOaltT.js";const _=o({__name:"Logout",setup(s){return n(),e().push("/"),(a,u)=>(r(),t("h1",null,"Logout..."))}});export{_ as default};
