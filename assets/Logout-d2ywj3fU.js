@@ -1,0 +1,1 @@
+import{i as o,U as e,B as t,n as r}from"./index-7PbpbQ3m.js";import{L as n}from"./logout-urb5olhw.js";import"./userData-rTJ9Farn.js";const _=o({__name:"Logout",setup(s){return n(),e().push("/"),(a,u)=>(r(),t("h1",null,"Logout..."))}});export{_ as default};
