@@ -1,1 +1,0 @@
-import{a$ as e}from"./index-jOULorfz.js";import"./VContainer-bqzJwqG7.js";import{c as r}from"./createSimpleFunctional-a-XvPYAM.js";const t=e.getInstance(),s=()=>t,p=r("v-spacer","div","VSpacer");export{p as V,s as u};
