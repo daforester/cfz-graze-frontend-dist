@@ -1,0 +1,1 @@
+import{G as n}from"./group-7fhbY6WJ.js";import{C as t}from"./canDo-8w-iwWYc.js";const i=(r,o)=>r===void 0?!1:t(r,n.GROUP_TYPE_CONVENTION,o.ConventionUUID,o).EditProps,s=(r,o)=>r===void 0?!1:t(r,n.GROUP_TYPE_CONVENTION,o.ConventionUUID,o).ConfigureProps;export{i as C,s as a};
