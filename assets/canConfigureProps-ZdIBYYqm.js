@@ -1,0 +1,1 @@
+import{G as n}from"./group-7fhbY6WJ.js";import{C as i}from"./canDo-aPAEW8Sy.js";const C=(r,o)=>r===void 0?!1:i(r,n.GROUP_TYPE_CONVENTION,o.ConventionUUID,o).ViewProps,a=(r,o)=>r===void 0?!1:i(r,n.GROUP_TYPE_CONVENTION,o.ConventionUUID,o).EditProps,e=(r,o)=>r===void 0?!1:i(r,n.GROUP_TYPE_CONVENTION,o.ConventionUUID,o).ConfigureProps;export{C,a,e as b};
