@@ -1,1 +1,0 @@
-import"./VContainer-Xrl4l37f.js";import{c as o}from"./createSimpleFunctional-RDhqjNtk.js";import{at as c}from"./index-QgSUQDwF.js";const p=o("v-spacer","div","VSpacer");function a(){const e=c("useScopeId").vnode.scopeId;return{scopeId:e?{[e]:""}:void 0}}export{p as V,a as u};
